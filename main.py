@@ -1,5 +1,5 @@
 def main():
-    print("Usage: uv run python [exercise-name]")
+    print("Usage: uv run python exercises/[part]/[exercise-name]")
 
 
 if __name__ == "__main__":
