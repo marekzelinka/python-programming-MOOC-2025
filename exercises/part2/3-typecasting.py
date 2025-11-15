@@ -18,6 +18,7 @@ The temperature is 5.15
 ...and rounded down it is 5
 
 Notice the function always rounds down, and not according to the rounding rules in mathematics. This is an example of a floor function.
+
 Sample output
 
 Please type in a temperature: 8.99
@@ -29,6 +30,7 @@ Please write a program which asks the user for a floating point number and then 
 You can assume the number given by the user is always greater than zero.
 
 An example of expected behaviour:
+
 Sample output
 
 Please type in a number: 1.34

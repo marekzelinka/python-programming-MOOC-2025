@@ -5,6 +5,7 @@ The elder
 Please write a program which asks for the names and ages of two persons. The program should then print out the name of the elder.
 
 Some examples of expected behaviour:
+
 Sample output
 
 Person 1:
@@ -14,6 +15,7 @@ Person 2:
 Name: Ada
 Age: 27
 The elder is Ada
+
 Sample output
 
 Person 1:

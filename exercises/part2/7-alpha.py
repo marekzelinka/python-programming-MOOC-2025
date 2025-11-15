@@ -13,16 +13,19 @@ Please write a program which asks the user for two words. The program should the
 You can assume all words will be typed in lowercase entirely.
 
 Some examples of expected behaviour:
+
 Sample output
 
 Please type in the 1st word: car
 Please type in the 2nd word: scooter
 scooter comes alphabetically last.
+
 Sample output
 
 Please type in the 1st word: zorro
 Please type in the 2nd word: batman
 zorro comes alphabetically last.
+
 Sample output
 
 Please type in the 1st word: python

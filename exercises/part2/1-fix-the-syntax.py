@@ -18,6 +18,7 @@ Sample output
 Please type in a number: 13
 13 must be my lucky number!
 Have a nice day!
+
 Sample output
 
 Please type in a number: 101

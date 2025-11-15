@@ -6,7 +6,7 @@ twice, on two consecutive lines.
 
 An example of the how the program should function:
 
-Sample output:
+Sample output
 
 What is your name? Paul
 Paul

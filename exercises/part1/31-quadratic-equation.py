@@ -9,6 +9,7 @@ from math import sqrt
 print(sqrt(9))
 
 This should print out
+
 Sample output
 
 3.0
@@ -31,6 +32,7 @@ Value of c: -8
 The roots are 2.0 and -4.0
 """
 
+# Using cmath to handle complex numbers
 from cmath import sqrt
 
 a = int(input("Value of a: "))

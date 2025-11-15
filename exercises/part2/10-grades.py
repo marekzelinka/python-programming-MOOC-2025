@@ -17,14 +17,17 @@ The table below outlines the grade boundaries on a certain university course. Pl
 | > 100	 | impossible! |
 
 Some examples:
+
 Sample output
 
 How many points [0-100]: 37
 Grade: fail
+
 Sample output
 
 How many points [0-100]: 76
 Grade: 3
+
 Sample output
 
 How many points [0-100]: -3

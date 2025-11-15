@@ -10,7 +10,8 @@ themselves:
 
 print('"Come right back!", shouted the police officer.')
 
-Sample output:
+Sample output
+
 "Come right back!", shouted the police officer.
 
 Please write a program which prints out the following:
